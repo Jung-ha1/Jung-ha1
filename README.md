@@ -12,12 +12,9 @@
   학과 : 정보과학대학 / 소프트융합대학 / 빅데이터 학과   
   복수전공 : 스마트 IoT**   
   
-- 이메일 : h20205254@glab.hallym.ac.kr   
-- 깃허브 : https://github.com/Jung-ha1   
-
-- 취미   
-  트위치 방송보기
-  ![푸린](https://user-images.githubusercontent.com/83272007/198277356-65eba8d4-c95a-42b9-be00-b8ccc2082f86.png){: width="100" height="100"}
+- ## 취미
+  ![푸린](https://user-images.githubusercontent.com/83272007/198277356-65eba8d4-c95a-42b9-be00-b8ccc2082f86.png)
+  
 
 ## 프로젝트   
 
