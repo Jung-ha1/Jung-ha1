@@ -12,14 +12,18 @@
   학과 : 빅데이터 학과   
   복수전공 : 스마트 IoT**   
   
-- 언어
-  **- PYTHON**
-  **- JAVA**
-  - KOTLIN
-  
 - ## 취미
-  ![푸린](https://user-images.githubusercontent.com/83272007/198277356-65eba8d4-c95a-42b9-be00-b8ccc2082f86.png)
-  
+  ![푸린](https://user-images.githubusercontent.com/83272007/198277356-65eba8d4-c95a-42b9-be00-b8ccc2082f86.png)   
+
+---
+
+- 언어   
+  - PYTHON
+  - JAVA
+  - KOTLIN
+  - HTML/CSS/jQuery
+  - SQL
+  - C/C++   
 
 # 프로젝트 경험   
 - 주제 : ESG기반 위기기업 모니터링 서비스   
@@ -35,3 +39,4 @@
   데이터 청년 캠퍼스 장려상   
 - 22.10.07   
   2022 데이터 청년 캠퍼스 표창장   
+---
