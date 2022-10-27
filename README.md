@@ -1,2 +1,2 @@
 ## 자기소개!!
-https://github.com/Jung-ha1/Jung-ha1/issues/1#issue-1425492948
+![친구가그린그림(변환)](https://user-images.githubusercontent.com/83272007/198274581-738e1734-d3c0-4821-ae77-313c45061e4b.png)
