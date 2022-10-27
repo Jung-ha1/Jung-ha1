@@ -17,7 +17,7 @@
 
 - 취미   
   트위치 방송보기
-  <img src="푸린.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+  <img src="다운로드/푸린.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="푸린k"></img>
 
 ## 프로젝트   
 
