@@ -4,12 +4,12 @@
 - 이름   
   정현아 (Jung Hyeon Ah)
 
-- 나이
-  22살 (만 20세)
+- 나이   
+  22살 (만 20세)   
   
-- 소속
+- 소속   
   학교 : 한림대학교
-  학과 : 정보과학대학 / 소프트융합대학 / 빅데이터 학과 , 복수전공 : 스마트 IoT
+  학과 : 정보과학대학 / 소프트융합대학 / 빅데이터 학과 , 복수전공 : 스마트 IoT   
   
-- 이메일 : h20205254@glab.hallym.ac.kr
-- 깃허브 : https://github.com/Jung-ha1
+- 이메일 : h20205254@glab.hallym.ac.kr   
+- 깃허브 : https://github.com/Jung-ha1   
