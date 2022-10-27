@@ -12,7 +12,7 @@
   학과 : 빅데이터 학과   
   복수전공 : 스마트 IoT**   
   
-- ## 취미
+- 취미
   ![푸린](https://user-images.githubusercontent.com/83272007/198277356-65eba8d4-c95a-42b9-be00-b8ccc2082f86.png)   
 
 ---
