@@ -17,7 +17,7 @@
 
 - 취미   
   트위치 방송보기
-  <img src="다운로드/푸린.png" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="푸린k"></img>
+  ![푸린](https://user-images.githubusercontent.com/83272007/198277356-65eba8d4-c95a-42b9-be00-b8ccc2082f86.png){: width="100" height="100"}
 
 ## 프로젝트   
 
