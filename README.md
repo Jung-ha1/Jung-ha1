@@ -1,2 +1,2 @@
 ## 자기소개!!
-<img stc="친구가그린그림.jpg">
+https://github.com/Jung-ha1/Jung-ha1/issues/1#issue-1425492948
